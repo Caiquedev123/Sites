@@ -1,0 +1,27 @@
+body{background-color: rgb(34, 121, 132);}
+
+.container{
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    left: 35%;
+    top: 40%;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-shadow: 2px 3px 2px black;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+}
+
+footer{
+    display: flex;
+    gap: 40px;
+    padding: 40px 40px 40px 40px;
+    justify-content: space-between;
+    col
+}

@@ -1,0 +1,17 @@
+body{background-color: rgb(255, 255, 255);}
+
+.container{
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    left: 35%;
+    top: 40%;
+    color: rgb(95, 0, 203);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+}

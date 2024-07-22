@@ -1,0 +1,19 @@
+body{background-color: rgb(255, 255, 255);}
+
+.container{
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    left: 35%;
+    top: 40%;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-shadow: ;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+}

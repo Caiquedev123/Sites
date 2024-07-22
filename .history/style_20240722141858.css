@@ -1,0 +1,13 @@
+body{background-color: rgb(255, 255, 255);}
+
+.container{
+    position: absolute;
+    z-index: 1;
+    text-align: end;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+}

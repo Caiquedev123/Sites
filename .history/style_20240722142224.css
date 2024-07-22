@@ -1,0 +1,15 @@
+body{background-color: rgb(255, 255, 255);}
+
+.container{
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    left: 40%;
+    top: 40%;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+}
